@@ -1,0 +1,14 @@
+layout_spectrum: 0.16597508592531085
+typography_spectrum: 0.5388358950149268
+color:
+  brandStrength: 0.21579816844314337
+  lightness: 0.8382485155016184
+  saturation: 0.555001133820042
+  rhythmicContrast: 0.7485564595554024
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: luminous insight
